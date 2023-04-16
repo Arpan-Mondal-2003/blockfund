@@ -35,7 +35,8 @@ Blockfund is a Decentralized FundRaising Platform for social causes. It's build 
 - Link: https://docs.google.com/presentation/d/1WCpCja077epZIomLPrFGimFfzQ3mLUDslD2Zij5fxvw/edit?usp=sharing
 
 ## 🛠️ Tools Used
-![](./src/assets/BlockFund.png)
+<img width="1051" alt="tezos" src="https://user-images.githubusercontent.com/109627786/232327807-d34db521-7914-4c1a-b4c4-2c3d9721fdc7.png">
+
 
 ### 💄 Frontend
 Frontend of BlockFund is written in Vuejs along with Quasar as a Component library to quickly build the frontend. I absolutely love 💚 VueJs and it's ecosystem and Quasar is one of the best UI Library to pick.
@@ -97,10 +98,10 @@ Initially i was thinking to use `Azure` but then Linode was a MLH sponser and th
 
 
 ## ☎️ Let's Connect 
-- **Twitter:** https://twitter.com/vivekascoder
-- **Discord:** https://discord.gg/8dC7QAF6r8
-- **Personal Blog:** https://blog.divcorn.com
+- **Twitter:** https://twitter.com/Arpan_MegaVerse
+- **Discord:** https://discord.com/invite/9FwSESBVsj
+- **Portfolio:** https://arpanmondal.carrd.co/
 
 💰️ Support the project development 
-Ξ Ethereum: 0xAF5D27A3095C545CfB4357E5e1061ADe2Ea8911C
-ꜩ Tezos: tz1UxnruUqq2demYbAHsHkZ2VV95PV8MXVGq
+Ξ Ethereum: 0xCb5cf68D834A935689318DA10541c481A0b4D5a8
+
